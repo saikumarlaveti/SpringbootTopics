@@ -1,0 +1,22 @@
+package com.springScheduling.Service;
+
+import java.util.Date;
+
+import org.springframework.scheduling.annotation.Scheduled;
+import org.springframework.stereotype.Service;
+
+@Service("task1")
+public class Task1 {
+	
+	//@Scheduled(initialDelay = 10000,fixedDelay=3000)
+	//@Scheduled(initialDelay = 10000,fixedRate=3000)
+	@Scheduled(cron = "5 * * * * *")
+	public void doTask() {
+		System.out.println("Task1.doTask()" + new Date());
+	}
+
+	//@Scheduled(fixedDelay=35000)
+	public void greet() {
+		System.out.println("Hello Saikumar" );
+	}
+}

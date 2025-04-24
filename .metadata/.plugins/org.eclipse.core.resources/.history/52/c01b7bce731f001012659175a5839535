@@ -1,0 +1,13 @@
+package com.springMail;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Concept01SpringMailApplication {
+
+	public static void main(String[] args) {
+		ApplicationContext ctx = SpringApplication.run(Concept01SpringMailApplication.class, args);
+	}
+
+}

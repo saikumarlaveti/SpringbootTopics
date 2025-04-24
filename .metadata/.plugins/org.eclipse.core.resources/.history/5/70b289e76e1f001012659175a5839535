@@ -1,0 +1,5 @@
+package com.springMail.service;
+
+public interface Shopping {
+
+}

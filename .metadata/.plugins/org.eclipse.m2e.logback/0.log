@@ -1,0 +1,124 @@
+2025-04-22 17:00:03,790 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-22 17:01:44,263 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springMail:Concept_01_SpringMail:0.0.1-SNAPSHOT @ C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\pom.xml.
+2025-04-22 17:01:45,719 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Concept_01_SpringMail/src/main/java
+2025-04-22 17:01:45,721 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Concept_01_SpringMail/src/main/resources
+2025-04-22 17:01:45,728 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Concept_01_SpringMail/src/main/resources
+2025-04-22 17:01:45,733 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Concept_01_SpringMail/src/test/java
+2025-04-22 17:01:45,734 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Concept_01_SpringMail/src/test/resources
+2025-04-22 17:01:46,718 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2025-04-22 17:01:46,726 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-04-22 17:01:47,165 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springMail:Concept_01_SpringMail:0.0.1-SNAPSHOT @ C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\pom.xml.
+2025-04-22 17:01:47,666 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Concept_01_SpringMail/src/main/java
+2025-04-22 17:01:47,667 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Concept_01_SpringMail/src/main/resources
+2025-04-22 17:01:47,668 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Concept_01_SpringMail/src/main/resources
+2025-04-22 17:01:47,668 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Concept_01_SpringMail/src/test/java
+2025-04-22 17:01:47,670 [Worker-8: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Concept_01_SpringMail/src/test/resources
+2025-04-22 17:01:48,371 [Worker-8: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-04-22 17:01:49,745 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:01:49,765 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-22 17:01:49,770 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-22 17:06:47,008 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:06:47,020 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-22 17:06:47,026 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-22 17:10:25,906 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:10:25,925 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-22 17:10:25,937 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-22 17:12:44,520 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:12:44,535 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-22 17:12:44,543 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-22 17:14:20,146 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:14:20,158 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-22 17:14:20,162 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-22 17:16:52,454 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:16:52,475 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-22 17:16:52,485 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-22 17:17:24,343 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:17:24,357 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-22 17:17:24,366 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-22 17:18:02,697 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:18:02,708 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-22 17:18:02,715 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-22 17:38:39,297 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-22 17:38:39,298 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:38:39,307 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-22 17:40:57,716 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:40:57,727 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:40:57,733 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-22 17:40:59,932 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:40:59,942 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:40:59,948 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-22 17:42:46,157 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:42:46,166 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:42:46,173 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-22 17:47:49,618 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:47:49,634 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:47:49,641 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-22 17:52:20,969 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:52:20,986 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:52:20,994 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-22 17:53:14,790 [Worker-48: Launching Concept_01_SpringMail - Concept01SpringMailApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:53:14,803 [Worker-48: Launching Concept_01_SpringMail - Concept01SpringMailApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 17:53:14,808 [Worker-48: Launching Concept_01_SpringMail - Concept01SpringMailApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-22 18:01:14,630 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 18:01:14,645 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-22 18:01:14,651 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-22 18:25:41,477 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 18:25:41,494 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-22 18:25:41,501 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_01_SpringMail\src\test\resources
+2025-04-24 12:33:17,508 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-24 12:36:25,147 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springMail:Concept_02_SpringBootScheduling:0.0.1-SNAPSHOT @ C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_02_SpringBootScheduling\pom.xml.
+2025-04-24 12:36:27,051 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Concept_02_SpringBootScheduling/src/main/java
+2025-04-24 12:36:27,053 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Concept_02_SpringBootScheduling/src/main/resources
+2025-04-24 12:36:27,059 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Concept_02_SpringBootScheduling/src/main/resources
+2025-04-24 12:36:27,064 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Concept_02_SpringBootScheduling/src/test/java
+2025-04-24 12:36:27,066 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Concept_02_SpringBootScheduling/src/test/resources
+2025-04-24 12:36:27,458 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2025-04-24 12:36:27,463 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-04-24 12:36:27,924 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springMail:Concept_02_SpringBootScheduling:0.0.1-SNAPSHOT @ C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_02_SpringBootScheduling\pom.xml.
+2025-04-24 12:36:28,432 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Concept_02_SpringBootScheduling/src/main/java
+2025-04-24 12:36:28,433 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Concept_02_SpringBootScheduling/src/main/resources
+2025-04-24 12:36:28,434 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Concept_02_SpringBootScheduling/src/main/resources
+2025-04-24 12:36:28,436 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Concept_02_SpringBootScheduling/src/test/java
+2025-04-24 12:36:28,438 [Worker-28: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Concept_02_SpringBootScheduling/src/test/resources
+2025-04-24 12:36:29,034 [Worker-28: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-04-24 12:36:29,412 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-04-24 12:36:29,759 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springMail:Concept_02_SpringBootScheduling:0.0.1-SNAPSHOT @ C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_02_SpringBootScheduling\pom.xml.
+2025-04-24 12:36:30,094 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Concept_02_SpringBootScheduling/src/main/java
+2025-04-24 12:36:30,096 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Concept_02_SpringBootScheduling/src/main/resources
+2025-04-24 12:36:30,096 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Concept_02_SpringBootScheduling/src/main/resources
+2025-04-24 12:36:30,097 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Concept_02_SpringBootScheduling/src/test/java
+2025-04-24 12:36:30,098 [Worker-30: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Concept_02_SpringBootScheduling/src/test/resources
+2025-04-24 12:36:30,311 [Worker-30: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-04-24 12:36:31,065 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 12:36:31,114 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 12:36:31,125 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_02_SpringBootScheduling\src\test\resources
+2025-04-24 12:40:20,407 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 12:40:20,419 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 12:40:20,423 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_02_SpringBootScheduling\src\test\resources
+2025-04-24 12:42:06,777 [Worker-20: Launching Concept_02_SpringBootScheduling - Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 12:42:06,783 [Worker-20: Launching Concept_02_SpringBootScheduling - Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 12:42:06,787 [Worker-20: Launching Concept_02_SpringBootScheduling - Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_02_SpringBootScheduling\src\test\resources
+2025-04-24 12:43:03,131 [Worker-21: Launching Concept_02_SpringBootScheduling - Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 12:43:03,160 [Worker-21: Launching Concept_02_SpringBootScheduling - Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 12:43:03,167 [Worker-21: Launching Concept_02_SpringBootScheduling - Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_02_SpringBootScheduling\src\test\resources
+2025-04-24 12:44:50,055 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 12:44:50,064 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 12:44:50,069 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_02_SpringBootScheduling\src\test\resources
+2025-04-24 12:46:06,140 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 12:46:06,151 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 12:46:06,154 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_02_SpringBootScheduling\src\test\resources
+2025-04-24 12:46:55,247 [Worker-33: Launching Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 12:46:55,258 [Worker-33: Launching Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 12:46:55,263 [Worker-33: Launching Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_02_SpringBootScheduling\src\test\resources
+2025-04-24 12:48:12,531 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 12:48:12,539 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 12:48:12,544 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_02_SpringBootScheduling\src\test\resources
+2025-04-24 12:57:40,266 [Worker-43: Launching Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 12:57:40,278 [Worker-43: Launching Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 12:57:40,283 [Worker-43: Launching Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_02_SpringBootScheduling\src\test\resources
+2025-04-24 12:58:07,934 [Worker-44: Launching Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 12:58:07,946 [Worker-44: Launching Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 12:58:07,955 [Worker-44: Launching Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_02_SpringBootScheduling\src\test\resources
+2025-04-24 12:58:37,600 [Worker-42: Launching Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 12:58:37,615 [Worker-42: Launching Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 12:58:37,621 [Worker-42: Launching Concept02SpringBootSchedulingApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Concept_02_SpringBootScheduling\src\test\resources

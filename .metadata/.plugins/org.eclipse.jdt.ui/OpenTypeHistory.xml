@@ -1,5 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-    <typeInfo handle="=Concept_03_CSVToDB/C:\/Users\/Saikumar\/.m2\/repository\/org\/springframework\/batch\/spring-batch-core\/5.2.2\/spring-batch-core-5.2.2.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.batch=/=/maven.artifactId=/spring-batch-core=/=/maven.version=/5.2.2=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.batch.core(JobExecutionListener.class[JobExecutionListener" modifiers="1537" timestamp="1745818553463"/>
-    <typeInfo handle="=Concept_03_CSVToDB/C:\/Users\/Saikumar\/.m2\/repository\/org\/springframework\/boot\/spring-boot\/3.4.5\/spring-boot-3.4.5.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.boot=/=/maven.artifactId=/spring-boot=/=/maven.version=/3.4.5=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.boot(CommandLineRunner.class[CommandLineRunner" modifiers="1537" timestamp="1745818553420"/>
-</typeInfoHistroy>
+<typeInfoHistroy/>

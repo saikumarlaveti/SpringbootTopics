@@ -7669,3 +7669,7 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognise
 2025-06-14 21:25:12,032 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Log4j\src\test\resources
 2025-06-14 21:25:32,945 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-06-14 21:25:32,947 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Log4j\src\test\resources
+2025-06-14 21:29:22,557 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-14 21:29:22,562 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Log4j\src\test\resources
+2025-06-14 21:29:25,421 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-14 21:29:25,422 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Saikumar\eclipse-workspace\Spring Boot Mail\Log4j\src\test\resources

@@ -1,0 +1,5 @@
+2025-06-14 21:03:17 DEBUG Log4j.com.App - This is a DEBUG message
+2025-06-14 21:03:17 INFO  Log4j.com.App - This is an INFO message
+2025-06-14 21:03:17 WARN  Log4j.com.App - This is a WARN message
+2025-06-14 21:03:17 ERROR Log4j.com.App - This is an ERROR message
+2025-06-14 21:03:17 FATAL Log4j.com.App - This is a FATAL message

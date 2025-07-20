@@ -27,3 +27,5 @@ public class TicketBookingController {
 		return "please tryagain after some time";
 	}
 }
+
+//Spring Cloud Hystrix is Deprecated
